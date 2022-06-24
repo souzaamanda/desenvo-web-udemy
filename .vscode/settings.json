@@ -1,0 +1,11 @@
+{
+    "css.completion.completePropertyWithSemicolon": true,
+    "css.completion.triggerPropertyValueCompletion": true,
+    "css.format.enable": true,
+    "cssPeek.enable": true,
+    "html-to-css-autocompletion.autocompletionFilesScope": "multi-root",
+    "vsintellicode.features.apiExamples": "enabled",
+    "vsintellicode.features.apiExamplests": "enabled",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "vsintellicode.java.completionsEnabled": true
+}
